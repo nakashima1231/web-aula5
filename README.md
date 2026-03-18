@@ -11,3 +11,7 @@ Este repositório contém os exercícios práticos da **Aula 5**:
 [algp_id](algp_id.html)
 
 [algp_partes](algp_partes.html)
+
+[cronograma](cronograma.html)
+
+[ban2](ban2.html)
