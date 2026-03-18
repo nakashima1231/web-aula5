@@ -6,4 +6,8 @@ Este repositório contém os exercícios práticos da **Aula 5**:
 
 [Estrutura Curricular](componentes.html)
 
-[Conteúdo de Algoritmos](algp.html)
+[algp_class](algp_class.html)
+
+[algp_id](algp_id.html)
+
+[algp_partes](algp_partes.html)
